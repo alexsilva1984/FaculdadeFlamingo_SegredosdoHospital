@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
 </head>
-<h1>vOs Segredos do Hospital</h1>
+<h1>Os Segredos do Hospital</h1>
     <p>No hospital, as internações têm sido registradas por meio de formulários eletrônicos que gravam os dados em arquivos. 
 Para cada internação, são anotadas a data de entrada, a data prevista de alta e a data efetiva de alta, além da descrição textual dos procedimentos a serem realizados. 
 As internações precisam ser vinculadas a quartos, com a numeração e o tipo. 
