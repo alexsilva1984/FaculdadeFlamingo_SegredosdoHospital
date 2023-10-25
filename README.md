@@ -24,9 +24,8 @@ A internação, obviamente, é vinculada a um paciente – que pode se internar 
     </p>
 <img src=https://github.com/alexsilva1984/FaculdadeFlamingo_SegredosdoHospital/assets/103009635/decfdbee-6cfe-4247-9cd2-94bc13bff1f9/>
 
-<h1>Os Segredos do Hospital</h1>
+<h1>Mãos a obra?</h1>
 <p>
-    Mãos a obra?
 Faça a ligação do diagrama acima ao diagrama desenvolvido na atividade antrior, construindo relacionamentos com entidades relacionadas. E eleve o seu diagrama para que já selecionando os tipos de dados que serão trabalhados e em quais situações. 
 
 Por último, crie um script SQL para a geração do banco de dados e para instruções de montagem de cada uma das entidades/tabelas presentes no diagrama completo (considerando as entidades do diagrama da atividade anterior e as novas entidades propostas no diagrama acima). Também crie tabelas para relacionamentos quando necessário. Aplique colunas e chaves primárias e estrangeiras.
