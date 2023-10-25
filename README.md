@@ -23,7 +23,7 @@ Também é necessário controlar quais profissionais de enfermaria estarão resp
 A internação, obviamente, é vinculada a um paciente – que pode se internar mais de uma vez no hospital – e a um único médico responsável.
     </p>
 
-    <img src='https://github.com/alexsilva1984/FaculdadeFlamingo_SegredosdoHospital/assets/103009635/d91a286c-cdd5-4a3d-9ac4-221d9bad8e4e'/>
+    <img src="https://github.com/alexsilva1984/FaculdadeFlamingo_SegredosdoHospital/assets/103009635/d91a286c-cdd5-4a3d-9ac4-221d9bad8e4e" />
 
 <h1>Mãos a obra?</h1>
 
