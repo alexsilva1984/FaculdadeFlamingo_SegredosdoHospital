@@ -39,14 +39,4 @@ Os dados de tipo de quarto, convênio e especialidade são essenciais para a ope
 
 
     </p>
- <img src="https://github.com/alexsilva1984/FaculdadeFlamingo_SegredosdoHospital/assets/103009635/6c2a4265-82b8-4176-8a46-85636be89615" />
-
-
-    
-<h2>Mãos a Obra</h2>
-<p>Faça a ligação do diagrama acima ao diagrama desenvolvido na atividade antrior, construindo relacionamentos com entidades relacionadas. E eleve o seu diagrama para que já selecionando os tipos de dados que serão trabalhados e em quais situações. 
-Por último, crie um script SQL para a geração do banco de dados e para instruções de montagem de cada uma das entidades/tabelas presentes no diagrama completo (considerando as entidades do diagrama da atividade anterior e as novas entidades propostas no diagrama acima). Também crie tabelas para relacionamentos quando necessário. Aplique colunas e chaves primárias e estrangeiras.
-Use ferramentas, como ERPlus, Lucidchart, draw.io (via web) e MySQL Workbench, ou mesmo um editor de imagens para o diagrama. 
-Você pode utilizar o MySQL Workbench ou o DBdiagram.io para montar os scripts SQL.
-Importante: desse modelo já devemos gerar a etapa lógica da nossa modelagem!</p>
-<body>
+ 
